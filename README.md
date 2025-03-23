@@ -1,10 +1,4 @@
 # Forest-Fire-Detection-Using-CNN
-Certainly! Here's a **README.md** template for your **Forest Fire Detection using CNN** project:
-
----
-
-# Forest Fire Detection using CNN
-
 ## Overview
 This project utilizes a Convolutional Neural Network (CNN) to detect the presence of fire in images. The system processes visual data to classify inputs into two categories: "Fire" and "No Fire." Its real-time application can assist in early forest fire detection and response, helping mitigate environmental and economic losses.
 
