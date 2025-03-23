@@ -1,0 +1,9 @@
+forest_fire_detection/
+├── static/
+│   ├── style.css
+│   └── script.js
+├── templates/
+│   ├── index.html
+│   └── result.html
+├── fire_detection_model.h5  # Your pre-trained model
+└── app.py                   # Flask backend
