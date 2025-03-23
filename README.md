@@ -77,11 +77,7 @@ This project utilizes a Convolutional Neural Network (CNN) to detect the presenc
 ---
 
 ## Contributors
-- [Your Name](https://github.com/satvickbeldhari)
+- [Satvick](https://github.com/satvickbeldhari)
 
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](satvick) file for details.
 
 ---
